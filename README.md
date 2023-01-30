@@ -35,7 +35,7 @@ N/A
 N/A
 
 ## Screenshots
-"C:\Users\Spenc\Desktop\SNIPP4.JPG"
+![Alt text]("C:\Users\Spenc\Desktop\SNIPP4.JPG" "Optional title")
 
 
 ## Live Site URL
